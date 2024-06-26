@@ -1,4 +1,4 @@
-04# Importa o módulo os para interagir com o sistema operacional
+# Importa o módulo os para interagir com o sistema operacional
 import os
 
 # Define uma função para localizar arquivos de texto que contenham uma palavra específica e salvar os resultados em um arquivo
